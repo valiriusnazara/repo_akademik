@@ -13,6 +13,7 @@
     <h6>Ketua Kelas</h6>
     <h6>NIM : 23110002</h6><br>
     <h6>Joko Brilian</h6>
+    <h6>Tahun 2025</h6>
     <a href="index.php">Kembali</a>
 </body>
 </html>
