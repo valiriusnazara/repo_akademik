@@ -14,6 +14,8 @@
     <h6>NIM : 23110002</h6><br>
     <h6>Joko Brilian</h6>
     <h6>Tahun 2025</h6>
+    <h6>Kampus</h6>   
+    <h6>AMIK MAHAPUTRA RIAU</h6>
     <a href="index.php">Kembali</a>
 </body>
 </html>
