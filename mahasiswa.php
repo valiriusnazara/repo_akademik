@@ -16,6 +16,9 @@
     <h6>Tahun 2025</h6>
     <h6>Kampus</h6>   
     <h6>AMIK MAHAPUTRA RIAU</h6>
+    <h6>Kota : Pekanbaru</h6>
+
+    
     <a href="index.php">Kembali</a>
 </body>
 </html>
